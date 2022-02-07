@@ -3,7 +3,7 @@ import Resume from './components/resume'
 import Email from './components/email'
 import Skills from './components/skills'
 import City from './components/city'
-import PDF from './assets/michael-leriche-resume-2022.pdf'
+import PDF from './assets/michael-leriche-2022.pdf'
 
 import './App.scss';
 
