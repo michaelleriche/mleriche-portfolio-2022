@@ -5,7 +5,7 @@ function City() {
   
   return (
       <div className='city inactive' id="city">
-        <p>&uarr; &uarr; &uarr; This is the city I live in.</p>
+        <p>&uarr; &uarr; &uarr; These are the tools I use most frequently when developing.</p>
       </div>   
   );
 }
