@@ -166,9 +166,9 @@ function App() {
 
             { (screenSize.dynamicWidth < 700) ? 
           <div className='end-paragraph'>
-            <p className='end-line-top'>Who am I?</p>
-            <p className='end-line'>I'm a professional musician turned web developer. If I'm not coding or playing music, I'm usually training for a marathon, eating tacos, or building a synthesizer in my home electronics lab. I strive to build well made, accessible, and responsive websites and applications.</p>
-            <p className='end-line'>If you'd like to chat about working together or just have questions about a potential project, please don't hesitate to write me at my email below. 🙂 </p></div>   : '' }
+            <p className='end-line-top'></p>
+            <p className='end-line'></p>
+            <p className='end-line'></p></div>   : '' }
   
         </div>  {/* <-- viewer-object --> */}
 
